@@ -114,13 +114,14 @@ successful and produced recoverable execution evidence.
 ## 📚 Citation
 
 ```bibtex
-@techreport{gao2026physicalcoding,
-  title       = {Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence},
-  author      = {Gao, Hongcheng and Zhou, Jingjing and Zheng, Zelin and Ge, Shijia
-                 and Zhu, Jay and Wang, Yazhe and Zeng, Jianshu and Shangguan, Xuan
-                 and Wu, Di and He, Lingyu and Jia, Zhiqi and Wu, Sihang and He, Xiao},
-  institution = {HexaFuture},
-  year        = {2026}
+@misc{gao2026selfevolvingcodingagentsdigital,
+      title={Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence}, 
+      author={Hongcheng Gao and Jingjing Zhou and Zelin Zheng and Shijia Ge and Jay Zhu and Yazhe Wang and Jianshu Zeng and Xuan Shangguan and Di Wu and Lingyu He and Zhiqi Jia and Sihang Wu and Xiao He},
+      year={2026},
+      eprint={2609.35432},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2609.35432}, 
 }
 ```
 
